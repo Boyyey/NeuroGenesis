@@ -83,13 +83,7 @@ If you use NeuroGenesis in your research, please cite:
   year={2025},
   publisher={Self-published}
 }
-```
-
-## Contact
-Amir Hossein Rasti  
-Email: [Your Email]  
-GitHub: [@AmirHosseinRasti](https://github.com/AmirHosseinRasti)  
-LinkedIn: [Your LinkedIn]  
+```  
 
 ---
 *This project represents independent research in the field of artificial intelligence and neural networks.*
